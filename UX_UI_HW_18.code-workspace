@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Codeinecrazy"
+		},
+		{
+			"path": "../../Downloads/18.2-activities"
+		},
+		{
+			"path": "../../Downloads/18.1-activities/03_Jakes_Eatery"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "UX_UI_HW_18",
+		"liveServer.settings.port": 5502
+	}
+}
